@@ -1,0 +1,2 @@
+CREATE TABLE seoul_bike_data_staging AS
+TABLE seoul_bike_data;
